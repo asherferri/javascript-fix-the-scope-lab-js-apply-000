@@ -12,7 +12,7 @@ function yourAnimal() {
 }
 //we add this next to override past func.
 function yourAnimal() {
-  
+  var animal = 'cat';
   return animal;
 }
 
